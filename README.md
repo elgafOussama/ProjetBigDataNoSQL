@@ -6,7 +6,12 @@ charge le model predict et le datasetOUT.csv puis en sortie, il cree un fichier 
 fichier jupyter qui fait la regression sur les donnees manquantes 
 ### without_nan.ipynb
 fichier qui premet le preprocessing des donnees et calcule les differents scores du model
-
+### encode.py
+### decode.py
+### downloadDatasetAes.py
+### uploadDatasetAes.py
+### downloadPredictAes.py
+### uploadPredictAes.py
 
 ## Groupe
 
