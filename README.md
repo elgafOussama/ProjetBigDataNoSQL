@@ -12,6 +12,7 @@ fichier qui premet le preprocessing des donnees et calcule les differents scores
 ### uploadDatasetAes.py
 ### downloadPredictAes.py
 ### uploadPredictAes.py
+### ImportMonogo.sh
 
 ## Groupe
 
